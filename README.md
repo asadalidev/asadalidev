@@ -24,7 +24,7 @@ Here is some of the basic info:
 - 🔭 I’m currently working on ... ASP.NET Core, Node.js, Angular, React.js
 - 🌱 I’m currently learning ... Vue.js, Terraform, 
 - 💬 Ask me about ... Anything
-- 📫 How to reach me ... asadali4692@gmail.com / (+92) 341 2414 692
+- 📫 How to reach me ... me@asadali.dev / (+92) 341 2414 692
 - ⚡ Fun fact: ... The Best is yet to come..!
 
 ### Interesting stats
