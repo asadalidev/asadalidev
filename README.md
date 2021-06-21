@@ -7,7 +7,7 @@
 Hi! I'm Asad Ali.
 
 ## About me 
-I am a full-stack developer with over 08+ years of industry
+I am a full-stack developer with over 06 years of industry
 experience in application design, development and maintenance
 using Microsoft .NET technologies. Strong knowledge of .NET
 platform with an in depth knowledge of Object-oriented design,
